@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">F</string>
+    <string name="textview"><b>"Lunge with bicep curl"\n\n</b>
+         "Intensity :"   "Moderate"\n\n
+        "Benifits : ""Stability,Strength"
+    </string>
+    <string name="textview2">
+       <b>" Step up knee lifts"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Cardio,Stability"
+    </string>
+    <string name="textview3"> <b>"Front kick plank"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Cardio"
+    </string>
+    <string name="textview4"> <b>"Advanced jumping jacks"\n\n</b>
+"Intensity :" "Gentle"\n\n
+        "Benifits : ""Cardio"
+    </string>
+    <string name="textview5"> <b>"Fast step ups"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Cardio ,Stability"
+    </string>
+    <string name="textview6"> <b>"Three way crunches"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Strength,Core"
+    </string>
+    <string name="textview7"> <b>"Sprinter sit-up"\n\n</b>
+  "Intensity :"  "High"\n\n
+        "Benifits : ""Strength,Toning,Core"
+    </string>
+    <string name="textview8"> <b>"Single leg deadlift"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Strength"
+    </string>
+</resources>

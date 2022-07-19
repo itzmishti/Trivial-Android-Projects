@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ScrollApp2</string>
+    <string name="textview">
+         <b>“Ever loved someone so much, you would do anything for them? Yeah, well make that someone yourself and do whatever the hell you want.”</b> \n\n
+
+        <b>“Work until you no longer have to introduce yourself.” </b>\n\n
+
+       <b> “When you’re backed against the wall, break the goddamn thing down.”</b>\n\n
+
+        <b>“The only time success comes before work is in the dictionary.”</b>\n\n
+
+       <b> “Winners don’t make excuses when the other side plays the game.”</b>\n\n
+
+       <b> “Sorry, I can’t hear you over the sound of how awesome I am.”</b>\n\n
+
+       <b> “Wine is not a magic serum of truth. It just silences that smart little voice in your head which advises against saying some dumb                shit.”</b>\n\n
+
+        <b>“It’s going to happen because I’m going to make it happen.”
+
+        “I like to smile at people who don’t like me.”\n\n
+
+        “Don’t raise your voice, improve your argument.”\n\n
+
+        “You want to change your life? Change the way you think.”\n\n</b>
+    </string>
+</resources>

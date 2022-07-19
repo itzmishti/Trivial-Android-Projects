@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236035381290",
+    "project_id": "you-are-my-muse",
+    "storage_bucket": "you-are-my-muse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236035381290:android:cce88e63de281870bb4b53",
+        "android_client_info": {
+          "package_name": "com.example.youaremymuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236035381290-lks8b5qtokblaenpdd7gradvdl8lihj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAO_AY8yBejzF5AiB5GkqaKScjCo4gTrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236035381290-lks8b5qtokblaenpdd7gradvdl8lihj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

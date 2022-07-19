@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chapter3</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="concern">Concern</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="submit">Submit</string>
+</resources>
